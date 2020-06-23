@@ -1,0 +1,159 @@
+@charset "UTF-8";
+/*
+==============================================================
+fonts.css
+embed base64 fonts
+==============================================================
+*/
+/*@font-face {
+    font-family: 'lloydsBankJackBoldWEB';
+    src: url(data:application/x-font-woff;charset=utf-8;base64,---embedcodestring---) format('woff');
+    font-weight: normal;
+    font-style: normal;
+}*/
+/*
+==============================================================
+end fonts.css
+==============================================================
+*/
+/*
+==============================================================
+global.css
+default items - nothing to edit here
+==============================================================
+*/
+body,
+body * {
+  vertical-align: baseline;
+  border: 0 none;
+  outline: 0;
+  padding: 0;
+  margin: 0;
+}
+img {
+  border: 0;
+  /*image-rendering: -webkit-optimize-contrast;*/
+  /* Chrome (and Safari) */
+}
+div,
+img,
+button,
+svg,
+video {
+  /*
+    set base display items to absolute position
+    when animating there is little requirement for relative position
+    */
+  position: absolute;
+}
+.retina {
+  /*
+    for display on retina screens images created @2x actual dimensions then scaled back by 50%.
+    images are scaled from top left, which effects css when wanting to use other alignment
+    e.g. bottom:0; right:0; also requires transform-origin:bottom right;
+    02/2016 webkit browsers:
+    images including their containers must be block or inline-block. if css display:none or display:inline then transforms fail.
+    */
+  -webkit-transform: scale(0.5);
+      -ms-transform: scale(0.5);
+          transform: scale(0.5);
+  -webkit-transform-origin: left top;
+      -ms-transform-origin: left top;
+          transform-origin: left top;
+  /*
+    if you need backface-visibility:visible, set it only on items required
+    fixes inconsistant blurring on scaled items across browsers
+    */
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+.btn {
+  cursor: pointer;
+  /*
+    IE fix if you have 'invisble' btns.
+    they need a background to be clickable so we add a transparent pixel gif
+    */
+  background: url("data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7");
+  /*
+    dev border
+    border: 1px solid #ff0000;*/
+}
+#main_container {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  background-color: #FFFFFF;
+}
+#loading_state {
+  top: 50%;
+  left: 50%;
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+#main_content {
+  position: relative;
+  overflow: hidden;
+  border: 1px solid #999999;
+  box-sizing: border-box;
+  /*made visible in JS onLoad*/
+  visibility: hidden;
+}
+#default_exit {
+  width: 100%;
+  height: 100%;
+}
+:focus {
+  outline: none;
+}
+::-moz-focus-inner {
+  border: 0;
+}
+/*
+==============================================================
+end global.css
+==============================================================
+*/
+
+/*
+==============================================================
+banner.css
+==============================================================
+*/
+/*
+ONLY STATIC ATTRIBUTES HERE
+ALL ANIMATED VALUES SET AND CONTROLLED IN JS
+its often easier if values that animate by JS only exist in JS
+i.e. easy to loose track if first set in CSS and later managed in JS
+*/
+#main_content {
+  width: 300px;
+  height: 250px;
+  background-color: "#FFFFFF";
+  margin: 0 auto;
+}
+#logo {
+  width: 60px;
+  height: 32px;
+  background: url("logo.svg");
+  background-size: 60px 32px;
+  left: 11px;
+  bottom: 10px;
+  -webkit-filter: drop-shadow(0px 0px 10px #15163e);
+          filter: drop-shadow(0px 0px 10px #15163e);
+}
+#cta {
+  right: 60px;
+  bottom: 20px;
+}
+#cta_blue,
+#cta_white {
+  -webkit-transform: translate(-50%, -50%);
+      -ms-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+}
+/*
+==============================================================
+end banner.css
+==============================================================
+*/

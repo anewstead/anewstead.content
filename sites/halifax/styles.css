@@ -1,0 +1,145 @@
+@charset "UTF-8";
+body, body * {
+    vertical-align: baseline;
+    border: 0;
+    outline: 0;
+    padding: 0;
+    margin: 0
+}
+
+button, div, img, svg, video {
+    position: absolute
+}
+
+.retina {
+    -webkit-transform: scale(.5);
+    -ms-transform: scale(.5);
+    transform: scale(.5);
+    -webkit-transform-origin: left top;
+    -ms-transform-origin: left top;
+    transform-origin: left top;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden
+}
+
+.btn {
+    cursor: pointer;
+    background: url(data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+}
+
+#end_bg, #main_content {
+    width: 300px;
+    background-color: #55a51c;
+    margin: 0 auto;
+}
+
+#main_container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background-color: #FFF
+}
+
+#loading_state {
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+}
+
+#main_content {
+    position: relative;
+    overflow: hidden;
+    border: 1px solid #999;
+    box-sizing: border-box;
+    visibility: hidden;
+    height: 250px
+}
+
+#default_exit {
+    width: 100%;
+    height: 100%;
+    z-index: 1001
+}
+
+:focus {
+    outline: 0
+}
+
+::-moz-focus-inner {
+    border: 0
+}
+
+#halifax_logo1 {
+    width: 78px;
+    height: 39.93px;
+    bottom: 15px;
+    right: 15px
+}
+
+#halifax_logo2 {
+    width: 125px;
+    height: 63.99px;
+    top: 20px;
+    right: 30px
+}
+
+.xmask {
+    width: 300px;
+    height: 250px;
+    overflow: visible
+}
+
+.xmask div {
+    width: 300px;
+    height: 300px;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%)
+}
+
+#xmask1 div svg, #xmask3 div svg {
+    fill: #373abe;
+    -webkit-transform: scale(450);
+    -ms-transform: scale(450);
+    transform: scale(450)
+}
+
+#xmask2 div svg, #xmask4 div svg {
+    fill: #55a51c;
+    -webkit-transform: scale(450);
+    -ms-transform: scale(450);
+    transform: scale(450)
+}
+
+#xmask_end div svg {
+    fill: #373abe;
+    -webkit-transform: scale(2);
+    -ms-transform: scale(2);
+    transform: scale(2)
+}
+
+#intro_sprite {
+    z-index: 1
+}
+
+#intro_text1 {
+    top: 35px;
+    left: 65px
+}
+
+#intro_text2 {
+    top: 78px;
+    left: 50px
+}
+
+#end_bg {
+    height: 250px
+}
+
+#legal_text1 {
+    z-index: 2
+}
