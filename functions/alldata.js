@@ -1,5 +1,5 @@
 const fs = require("fs");
-const data = fs.readFileSync(require.resolve("./data.json"));
+const data = fs.readFileSync(require.resolve("data.json"));
 
 exports.handler = function (event, context, callback) {
   const output = data;

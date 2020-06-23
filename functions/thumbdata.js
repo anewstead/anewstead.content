@@ -1,5 +1,5 @@
 const fs = require("fs");
-const data = fs.readFileSync(require.resolve("./data.json"));
+const data = fs.readFileSync(require.resolve("data.json"));
 
 const thumbs = data.map((item) => {
   const obj = {
