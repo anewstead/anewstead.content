@@ -1,6 +1,8 @@
 const fs = require("fs");
 const data = fs.readFileSync(require.resolve("./data.json"));
 
+import querystring from "querystring";
+
 exports.handler = function (event, context, callback) {
   let output='';
 
