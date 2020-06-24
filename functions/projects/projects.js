@@ -40,6 +40,6 @@ exports.handler = function (event, context, callback) {
       "Access-Control-Allow-Origin": "*",
     },
     statusCode: 200,
-    body: `${params}`,
+    body: `${output}`,
   });
 };
