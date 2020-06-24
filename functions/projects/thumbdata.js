@@ -2,7 +2,7 @@ const fs = require("fs");
 const data = fs.readFileSync(require.resolve("./data.json"));
 
 const thumbs = JSON.parse(data).map((item) => {
-  const obj = {
+  return {
     id: item.id,
     client: item.client,
     brand: item.brand,
@@ -12,9 +12,7 @@ const thumbs = JSON.parse(data).map((item) => {
       type: item.view.type,
     },
   };
-  return obj;
 });
-
 
 exports.handler = function (event, context, callback) {
   const output = JSON.stringify(thumbs);
