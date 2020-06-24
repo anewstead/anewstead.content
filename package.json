@@ -1,0 +1,24 @@
+{
+  "name": "anewstead.content",
+  "version": "1.0.0",
+  "description": "content for https://anewstead.doodlecube.co.uk",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "bundle": "cpx src/**/* functions/bundle"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anewstead/anewstead.content.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/anewstead/anewstead.content#readme",
+  "dependencies": {
+    "apollo-server": "^2.15.0",
+    "apollo-server-lambda": "^2.15.0",
+    "cpx": "^1.5.0",
+    "nodemon": "^2.0.4"
+  }
+}
