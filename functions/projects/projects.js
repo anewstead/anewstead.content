@@ -1,17 +1,17 @@
-
-
 const querystring = require("querystring");
 const fs = require("fs");
 
-const data = fs.readFileSync(require.resolve("./data.json"));
+const data = JSON.parse(
+  fs.readFileSync(require.resolve("./projects/data.json"), "utf8")
+);
 
 exports.handler = function (event, context, callback) {
-  let output='';
+  let output = "";
 
   const params = querystring.parse(event.body);
-  
+
   if (params.thumbs) {
-    const thumbs = JSON.parse(data).map((item) => {
+    const thumbs = data.map((item) => {
       return {
         id: item.id,
         client: item.client,
@@ -24,15 +24,13 @@ exports.handler = function (event, context, callback) {
       };
     });
     output = JSON.stringify(thumbs);
-  }
-  else if(params.id){
-    const id = JSON.parse(data).filter((item) => {
-      return item.id===params.id;
+  } else if (params.id) {
+    const id = data.filter((item) => {
+      return item.id === params.id;
     });
     output = JSON.stringify(id);
-  }
-  else{
-    output = data;
+  } else {
+    output = JSON.stringify(data);
   }
 
   callback(null, {
