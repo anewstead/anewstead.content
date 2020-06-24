@@ -1,7 +1,7 @@
 
 
-import querystring from "querystring";
-import fs from "fs";
+const querystring = require("querystring");
+const fs = require("fs");
 
 const data = fs.readFileSync(require.resolve("./data.json"));
 
@@ -40,6 +40,6 @@ exports.handler = function (event, context, callback) {
       "Access-Control-Allow-Origin": "*",
     },
     statusCode: 200,
-    body: `${output}`,
+    body: `${params}`,
   });
 };
