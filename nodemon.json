@@ -2,5 +2,5 @@
     "watch": ["functions"],
     "ext": ".js",
     "ignore": [],
-    "exec": "node ./functions/graphql/server-local.js"
+    "exec": "node ./functions/graphql/graphql-local.js"
   }
