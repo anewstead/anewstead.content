@@ -1,11 +1,8 @@
-const ApolloServer = require("apollo-server").ApolloServer;
-const ApolloServerLambda = require("apollo-server-lambda").ApolloServer;
 const { gql } = require("apollo-server-lambda");
 const fs = require("fs");
-const path = require("path");
 
 const data = JSON.parse(
-  fs.readFileSync(path.join(__dirname, "/projects/data.json"), "utf8")
+  fs.readFileSync(require.resolve("./data.json"), "utf8")
 );
 
 const typeDefs = gql`
@@ -48,24 +45,4 @@ const resolvers = {
   },
 };
 
-// for live
-function createLambdaServer() {
-  return new ApolloServerLambda({
-    typeDefs,
-    resolvers,
-    introspection: true,
-    playground: true,
-  });
-}
-
-// for localhost
-function createLocalServer() {
-  return new ApolloServer({
-    typeDefs,
-    resolvers,
-    introspection: true,
-    playground: true,
-  });
-}
-
-module.exports = { createLambdaServer, createLocalServer };
+module.exports = { typeDefs, resolvers };

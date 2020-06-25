@@ -2,7 +2,7 @@ const querystring = require("querystring");
 const fs = require("fs");
 
 const data = JSON.parse(
-  fs.readFileSync(require.resolve("./projects/data.json"), "utf8")
+  fs.readFileSync(require.resolve("./data.json"), "utf8")
 );
 
 exports.handler = function (event, context, callback) {

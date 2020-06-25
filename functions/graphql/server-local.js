@@ -1,4 +1,4 @@
-const { createLocalServer } = require("./functions/server")
+const { createLocalServer } = require("./create-server")
 
 const server = createLocalServer();
 

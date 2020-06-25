@@ -1,4 +1,4 @@
-const { createLambdaServer } = require('./server')
+const { createLambdaServer } = require('./create-server')
 
 const server = createLambdaServer();
 

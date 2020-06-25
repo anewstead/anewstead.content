@@ -1,0 +1,726 @@
+[
+  {
+    "id": "0",
+    "client": "Macromaniac",
+    "brand": "Bacardi",
+    "project": "b-phonic",
+    "type": "app",
+    "tech": "flash",
+    "thumb": "bphonic.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": ["bphonic_01.jpg", "bphonic_02.jpg"]
+    },
+    "info": "Desktop MP3 music player and download station for Bacardi Breezer.<br/>Music supplied in association with clickmusic.com.<br/>Tracks could be streamed and downloaded from several managed lists that would be updated on a regular basis.<br/>The player was created in Macromedia Director and was distributed as an installable application.<br/>The design had an irregular shape and had an expanded and collasped state."
+  },
+
+  {
+    "id": "1",
+    "client": "Haygarth",
+    "brand": "Nokia",
+    "project": "The X Factor",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "nokia_xfactor2004.jpg",
+    "view": {
+      "type": "video",
+      "width": 776,
+      "height": 416,
+      "href": "1d9j7g3ijiMDuFKooZKr74u8PiZt46WCY",
+      "poster": "xfactor.jpg"
+    },
+    "info": "Promotional site for nokia phones whilst sponsoring the factor talent show.<br/>Very early adoption of flash video capability.<br/>Early example of a drag and drop interface (choose your factor).<br/>And a pie throwing game... what more do you want."
+  },
+
+  {
+    "id": "2",
+    "client": "Haygarth",
+    "brand": "Columbia Tristar",
+    "project": "Triple X (xXx)",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "columbia_triple_x.jpg",
+    "view": {
+      "type": "video",
+      "width": 758,
+      "height": 418,
+      "href": "1Ywcbh-ddrlGVLHRUCyhpY9RQRUZJ81NU",
+      "poster": "triple_x.jpg"
+    },
+    "info": "Promotional site for the launch of the action film.<br/>Side scrolling animated interactive navigation, leading to snippets of information."
+  },
+
+  {
+    "id": "3",
+    "client": "Haygarth",
+    "brand": "Nokia",
+    "project": "London Fashion Week",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "nokia_lfw.jpg",
+    "view": {
+      "type": "video",
+      "width": 758,
+      "height": 438,
+      "href": "1RJxBj0MEmZm2Sy1XkDoYsjqtGSSUOLg1",
+      "poster": "lfw.jpg"
+    },
+    "info": "Promotional site for nokia phones whilst sponsoring London Fashion week.<br/>Nice example of a side scrolling feature graphic navigation.<br/>The content is overlaid with a peak-through window to the feature graphic."
+  },
+
+  {
+    "id": "4",
+    "client": "Haygarth",
+    "brand": "GX Labs",
+    "project": "G-Cide",
+    "type": "site",
+    "tech": "html",
+    "thumb": "gx_labs.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 440,
+      "href": "sites/gxlabs/home.php",
+      "stills": ["gx_01.jpg", "gx_02.jpg", "gx_03.jpg"]
+    },
+    "info": "Product and corporate information site.<br/>Note that the site is fixed size with no scrolling, larger amounts of content obviously being paginated."
+  },
+
+  {
+    "id": "5",
+    "client": "Haygarth",
+    "brand": "Nokia",
+    "project": "Animal Attraction",
+    "type": "site",
+    "tech": "html",
+    "thumb": "nokia_aa.jpg",
+    "view": {
+      "type": "video",
+      "width": 780,
+      "height": 442,
+      "href": "1-IrzwcbkJYPUB-MCkg3MDl2f03IxMM5X",
+      "poster": "nokia_animal.jpg"
+    },
+    "info": "Nokia does speed dating... well animal antic events for students at least.<br/>A bit of an oldie now but the design is still lovely and it features a spank the monkey game!"
+  },
+
+  {
+    "id": "6",
+    "client": "Haygarth",
+    "brand": "118-118",
+    "project": "Ask Us Anything",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "118_aua.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": [
+        "118_aua_01.jpg",
+        "118_aua_02.jpg",
+        "118_aua_03.jpg",
+        "118_aua_04.jpg",
+        "118_aua_05.jpg",
+        "118_aua_06.jpg"
+      ]
+    },
+    "info": "Experience site for the 118118 information service.<br/>The site featured the latest TV adverts, a feed of live questions and answers, the ability to search for an answer."
+  },
+
+  {
+    "id": "7",
+    "client": "Haygarth",
+    "brand": "Gillette",
+    "project": "The Undetectables",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "gillette_stealth.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": [
+        "gillette_stealth_01.jpg",
+        "gillette_stealth_02.jpg",
+        "gillette_stealth_03.jpg"
+      ]
+    },
+    "info": "For the launch of Gillette fusion power razor.<br/>The site was based around a game where you need to be a crack shot to hit the button on the razor."
+  },
+
+  {
+    "id": "8",
+    "client": "Haygarth",
+    "brand": "Nokia",
+    "project": "Rock Up &amp; Play",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "nokia_runp.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": ["nokia_runp_01.jpg", "nokia_runp_02.jpg", "nokia_runp_03.jpg"]
+    },
+    "info": "Nokia ran multiple Rock up and Play events around the UK.<br/>This website used streaming video for instant playback, and contained clips recorded from the events and User Generated Content where musicians uploaded videos of themselves.<br/>There where several searchable music genre sections (stages), and songs could be rated and shared.<br/>The site also had information and blogs for the festivals, competitions, Nokia product and band feature pages."
+  },
+
+  {
+    "id": "9",
+    "client": "Haygarth",
+    "brand": "Paramount",
+    "project": "Star Trek UK",
+    "type": "site",
+    "tech": "html",
+    "thumb": "paramount_startrek.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": [
+        "paramount_startrek_01.jpg",
+        "paramount_startrek_02.jpg",
+        "paramount_startrek_03.jpg",
+        "paramount_startrek_04.jpg",
+        "paramount_startrek_05.jpg",
+        "paramount_startrek_06.jpg",
+        "paramount_startrek_07.jpg"
+      ]
+    },
+    "info": "Website promoting the DVD releases of all the Star trek franchise as they were released over several years.<br/>The site also included competitions, video clips, quizzes, interactive features, news, and cast interviews."
+  },
+
+  {
+    "id": "10",
+    "client": "Haygarth",
+    "brand": "Ashbury's",
+    "project": "Your Chocolates",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "ashburys_yourchocolates.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": [
+        "ashburys_yourchocolates_01.jpg",
+        "ashburys_yourchocolates_02.jpg",
+        "ashburys_yourchocolates_03.jpg",
+        "ashburys_yourchocolates_04.jpg",
+        "ashburys_yourchocolates_05.jpg",
+        "ashburys_yourchocolates_06.jpg"
+      ]
+    },
+    "info": "E-Commerce website where visitors could customise the design on the front of a box of Ashbury's chocolates.<br/>Users could customise a template design or simply use an uploaded image as the entire design."
+  },
+
+  {
+    "id": "11",
+    "client": "Haygarth",
+    "brand": "Gillette",
+    "project": "Fusion Locker Room",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "gillette_lockerroom.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": [
+        "gillette_lockerroom_01.jpg",
+        "gillette_lockerroom_02.jpg",
+        "gillette_lockerroom_03.jpg",
+        "gillette_lockerroom_04.jpg",
+        "gillette_lockerroom_05.jpg"
+      ]
+    },
+    "info": "Long living site which was very frequently updated with new content.<br/>Predominately based around Gillette sport sponsorships, but also featured other promotions and featurettes.<br/>The main design revolved around 4 exploratory environments where the content would be linked via an item therein, new items were added for every new section of content.<br/>The site also had a more recognisable navigation device to ensure visitors weren’t lost looking for something."
+  },
+
+  {
+    "id": "12",
+    "client": "Haygarth",
+    "brand": "Pelikon",
+    "project": "Emulators",
+    "type": "app",
+    "tech": "flash",
+    "thumb": "pelikon_emulators.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": [
+        "pelikon_emulators_01.jpg",
+        "pelikon_emulators_02.jpg",
+        "pelikon_emulators_03.jpg"
+      ]
+    },
+    "info": "Product interface emulators for Electroluminescent display developer Pelikon.<br/>These were used to illustrate how a product either speculative or in development might look should it go into production."
+  },
+
+  {
+    "id": "13",
+    "client": "My Agency",
+    "brand": "Grant's Whisky",
+    "project": "Experience",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "grants_whisky.jpg",
+    "view": {
+      "type": "video",
+      "width": 1026,
+      "height": 590,
+      "href": "1nUPIbtAFF0kVyVLLD8flLAVcI62_7nC4",
+      "poster": "grants.jpg"
+    },
+    "info": "Promotional site to coincide with Grant's updated glass bottle designs.<br/>Each page in the site has a vignette treatment to reflect the heritage,  experience and flavours of Grants.<br/>Modular site structure whereby an application loads separate components and pages at run time, each page therefore has a configured technical template though itself being creatively unique.<br/>All text is held in XML to allow for translations to Russian, French, Portuguese, Spanish and Greek"
+  },
+
+  {
+    "id": "14",
+    "client": "Ogilvy Action",
+    "brand": "Weetabix",
+    "project": "One Million",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "weetabix_onemillion.jpg",
+    "view": {
+      "type": "video",
+      "width": 964,
+      "height": 624,
+      "href": "1NMe8tklqM9MqPRsDevlEkwR1NjOig_H7",
+      "poster": "weetabix.jpg"
+    },
+    "info": "Visitors enter a code from an on packet promotion. <br/>They are then transported to 1 of 20 random locations to find a prize.<br/>Each code could only be used once with the win/lose outcome determined by a database of draw codes.<br/>Returning visitors would not see the same location until all had been viewed.<br/>Adaptation of a CAPTCHA code library for use in flash player.<br/>Multiple choice quiz for ROI route as legally they require an element of skill."
+  },
+
+  {
+    "id": "15",
+    "client": "MRM Meteorite",
+    "brand": "Standard Life",
+    "project": "Active Money",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "standardlife_sipps.jpg",
+    "view": {
+      "type": "video",
+      "width": 976,
+      "height": 568,
+      "href": "1rBr6zBgFMxlZanDksTb1WqZBHi5jmSem",
+      "poster": "standardlife.jpg"
+    },
+    "info": "Rather than read lots of information at once the site takes the form of a decision tree.<br/>Visitors read a short passage then progress by making a simple choice, meaning they only read what is relevant to them.<br/>Each line connecting the text windows is drawn according to x,y co-ordinates, this information is then also used to create the animated transitions.<br/>The 'find a financial advisor' window connected to a web service that returned registered advisor details by they're proximity to a given postcode."
+  },
+
+  {
+    "id": "16",
+    "client": "My Agency",
+    "brand": "Be Broadband",
+    "project": "More Than 8 Meg",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "be_mt8m.jpg",
+    "view": {
+      "type": "video",
+      "width": 988,
+      "height": 570,
+      "href": "1fRIQDkIt_3OxJFxgKOQxU2eC-HsfGfQg",
+      "poster": "be.jpg"
+    },
+    "info": "Rather than claim an ‘up to’ top speed, be* broadband's headline was it was 'more than' the regular speed at the time of 8Mb/s.<br/>Connected to a web service that given a landline number would returned the lines length which was then used to calculate the speed likely to be achieved.<br/>If you had under 8Mb you would go to broadband hell, but more than sends you to broadband heaven.<br/>The line checker service was closely guarded and as such required that the access to it in the site code was encrypted and obfuscated."
+  },
+
+  {
+    "id": "17",
+    "client": "Ogilvy Action",
+    "brand": "B.A.T.",
+    "project": "B.A.S.E.",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "base.jpg",
+    "view": {
+      "type": "video",
+      "width": 980,
+      "height": 646,
+      "href": "1zZQqXqHMj333tBMK9KTVu70wJ6fEzdFX",
+      "poster": "bat_base.jpg"
+    },
+    "info": "An internal education site that was architected to divide a large amount of information into bitesize chunks.<br/>All sections are animated between for a more interactive and engaging experience.<br/>Animation had to be snappy enough so as not to degrade response time between click and read by too much.<br/>A section sitemap is also included as an even quicker way of jumping between sections."
+  },
+
+  {
+    "id": "18",
+    "client": "MRM Meteorite",
+    "brand": "Blackberry",
+    "project": "Art Of Smart",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "blackberry_aos.jpg",
+    "view": {
+      "type": "video",
+      "width": 876,
+      "height": 526,
+      "href": "1qp8HynUsvWHJWuG20mGjYHA2B9bC8TGb",
+      "poster": "blackberry.jpg"
+    },
+    "info": "A video decision tree game made from 43 interlinking clips.<br/>To help create a more seamless experience the site uses a form of 'smart loading'. As you are watching a clip the next 2 (right & wrong decision) load to cache in the background so they are ready to play without buffering.<br/>Whilst this does create slightly more net traffic than necessary, it was at the time significantly cheaper than a streaming server setup.<br/>The site was also translated for German, Spanish, French, Italian and Dutch markets."
+  },
+
+  {
+    "id": "19",
+    "client": "MRM Meteorite",
+    "brand": "Argos",
+    "project": "World Truck",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "argos.jpg",
+    "view": {
+      "type": "video",
+      "width": 976,
+      "height": 654,
+      "href": "1AuHeHpqOUQZpfrv4v81tQtFyz_8ulzCU",
+      "poster": "argos.jpg"
+    },
+    "info": "Argos world cup promotion where visitors are given the chance to win the contents of an argos world truck.<br/>Short series of interlinked interactive video clips.<br/>Particularly nice integration of the win form to the video."
+  },
+
+  {
+    "id": "20",
+    "client": "Ogilvy Stockholm",
+    "brand": "Marabou",
+    "project": "Premium Chocolate",
+    "type": "site",
+    "tech": "html",
+    "thumb": "marabou.jpg",
+    "view": {
+      "type": "video",
+      "width": 1178,
+      "height": 784,
+      "href": "1DnJ4ENfSoYdIq6JWat7Ieb-ZVtgJ-2vH",
+      "poster": "marabou.jpg"
+    },
+    "info": "Promotional and informative site for Marabou Premium Chocolate drawing attention to their affiliation with the Rainforest Alliance.<br/>Launched in Swedish and Danish variations.<br/>Undertook all aspects of development (HTML, CSS, Javascript, Flash, XML, PHP, mySQL)"
+  },
+
+  {
+    "id": "21",
+    "client": "Ogilvy Healthworld",
+    "brand": "G.S.K.",
+    "project": "Benlysta",
+    "type": "app",
+    "tech": "flash",
+    "thumb": "benlysta.jpg",
+    "view": {
+      "type": "video",
+      "width": 702,
+      "height": 738,
+      "href": "154m-zNEE15UHmSlZrDem77Ppk9Tt0MbZ",
+      "poster": "gsk_benlysta.jpg"
+    },
+    "info": "Mobile app and online version for medical professionals to quickly work out optimal dose and dilution of the drug.<br/>The weight sliders are of particular technical interest as they required some pretty trick scripting to create the effect moving around the point of the indicator. "
+  },
+
+  {
+    "id": "22",
+    "client": "Global Beach",
+    "brand": "ITN",
+    "project": "Your News",
+    "type": "app",
+    "tech": "flash",
+    "thumb": "itn.jpg",
+    "view": {
+      "type": "video",
+      "width": 696,
+      "height": 222,
+      "href": "1IvYsBf6e-5YC7QZvGs8C3zILHkP43gRT",
+      "poster": "itn.jpg"
+    },
+    "info": "Web based app to show how broadcasters can choose to render a news story different ways.<br/>Users can flip between clips of reporters presenting the same story, over a choice of green screen background locations."
+  },
+
+  {
+    "id": "23",
+    "client": "Ogilvy Healthworld",
+    "brand": "B.I. / Lilly",
+    "project": "Card Game",
+    "type": "app",
+    "tech": "flash",
+    "thumb": "bi_cards.jpg",
+    "view": {
+      "type": "video",
+      "width": 1170,
+      "height": 652,
+      "href": "1fbJbL28wbGzYG_GAD_qzvFn8f0hoLWjL",
+      "poster": "bi_lilly.jpg"
+    },
+    "info": "Touch table drag and drop card match game installed at medical conferences.<br/>Who knew scientist where such a competitive bunch... feedback from the events said the scoreboard mechanic made this so popular it had queues of people wanting to play to get top ranking.<br/>The game appeared in slightly different guises for 3 years."
+  },
+
+  {
+    "id": "24",
+    "client": "TSL Digital",
+    "brand": "Cisco",
+    "project": "Banners",
+    "type": "banner",
+    "tech": "html",
+    "thumb": "cisco.jpg",
+    "view": {
+      "type": "iframe",
+      "width": 300,
+      "height": 250,
+      "href": "sites/cisco/index.html",
+      "still": "sites/_stills/cisco.jpg"
+    },
+    "info": "I have worked on several campaigns for Cisco.<br/>They have required standard and Rich media Flash, basic and automated HTML builds and are frequently translated to several languages."
+  },
+
+  {
+    "id": "25",
+    "client": "TSL Digital",
+    "brand": "Fosters",
+    "project": "Banners",
+    "type": "banner",
+    "tech": "html",
+    "thumb": "fosters.jpg",
+    "view": {
+      "type": "iframe",
+      "width": 300,
+      "height": 600,
+      "href": "sites/fosters/index.html",
+      "still": "sites/_stills/fosters.jpg"
+    },
+    "info": "Campaign to advertise the Helluva Tour TV program sponsored by Fosters."
+  },
+
+  {
+    "id": "26",
+    "client": "TSL Digital",
+    "brand": "Halifax",
+    "project": "Banners",
+    "type": "banner",
+    "tech": "html",
+    "thumb": "halifax.jpg",
+    "view": {
+      "type": "iframe",
+      "width": 300,
+      "height": 250,
+      "href": "sites/halifax/index.html",
+      "still": "sites/_stills/halifax.gif"
+    },
+    "info": "I have worked on approx. 20 Halifax campaigns.<br/>After the initial build of each campaign the setup would be part automated using node and grunt to help manage the number of variations.<br/>The Hanna Barbara cartoon character were created as sprite sheets per size variation and animated via javascript."
+  },
+
+  {
+    "id": "27",
+    "client": "TSL Digital",
+    "brand": "John Lewis",
+    "project": "Banners",
+    "type": "banner",
+    "tech": "html",
+    "thumb": "johnlewis.jpg",
+    "view": {
+      "type": "iframe",
+      "width": 300,
+      "height": 600,
+      "href": "sites/johnlewis/index.html",
+      "still": "sites/_stills/johnlewis.jpg"
+    },
+    "info": "I have worked on approx. 30 John Lewis campaigns.<br/>Whilst all followed a brand style guide/ template each campaign creative and build was bespoke."
+  },
+
+  {
+    "id": "28",
+    "client": "TSL Digital",
+    "brand": "Lloyds Bank",
+    "project": "Banners",
+    "type": "banner",
+    "tech": "html",
+    "thumb": "lloydsbank.jpg",
+    "view": {
+      "type": "iframe",
+      "width": 300,
+      "height": 250,
+      "href": "sites/lloydsbank/index.html",
+      "still": "sites/_stills/lloyds.gif"
+    },
+    "info": "The Lloyds bank banners were developed with an automation process.<br/>It used node and grunt to iterate over a template setup and exported approx. 60 banner variations.<br/>The automation code was used over many campaigns."
+  },
+
+  {
+    "id": "29",
+    "client": "TSL Digital",
+    "brand": "Oakley",
+    "project": "Banners",
+    "type": "banner",
+    "tech": "html",
+    "thumb": "oakley.jpg",
+    "view": {
+      "type": "iframe",
+      "width": 300,
+      "height": 250,
+      "href": "sites/oakley/index.html",
+      "still": "sites/_stills/oakley.jpg"
+    },
+    "info": "I have worked on a few campaigns for Oakley, some using Flash and some like this one using HTML.<br/>This creative uses HTML canvas gradients and a blur plugin to create the transition between frames."
+  },
+
+  {
+    "id": "30",
+    "client": "TSL Digital",
+    "brand": "Virgin",
+    "project": "Banners",
+    "type": "banner",
+    "tech": "html",
+    "thumb": "virgin.jpg",
+    "view": {
+      "type": "iframe",
+      "width": 300,
+      "height": 250,
+      "href": "sites/virgin/index.html",
+      "still": "sites/_stills/virgin.jpg"
+    },
+    "info": "I have worked on several campaigns for Virgin which on the whole followed the same base creative template(s). <br/>The legal info was a dynamic feed so changes could be made to all banners in a campaign last minute or even after live."
+  },
+
+  {
+    "id": "31",
+    "client": "TSL Digital",
+    "brand": "Volkswagon",
+    "project": "Banners",
+    "type": "banner",
+    "tech": "html",
+    "thumb": "vwcv.jpg",
+    "view": {
+      "type": "iframe",
+      "width": 300,
+      "height": 250,
+      "href": "sites/vwcv/index.html",
+      "still": "sites/_stills/vwcv.jpg"
+    },
+    "info": "This campaign for Volkswagen commercial vehicles ran during the UEFA European cup football tournament.<br/>The graphic seen here as a cake was managed via a dynamic feed and could have shown as either an English, Irish or Welsh flag depending on:<br/><br/>- The user’s geolocation.<br/>- If that nation was still in the running.<br/><br/>So if a viewer was at a location where the nation team was no longer in the tournament they would see a cake instead of the relevant flag."
+  },
+
+  {
+    "id": "32",
+    "client": "Possible Worldwide",
+    "brand": "Seat",
+    "project": "Geneva Motor Show",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "seat_geneva.jpg",
+    "view": {
+      "type": "video",
+      "width": 956,
+      "height": 644,
+      "href": "1oLCE8w4hBiLjfN1vdxkrfOK4XbUYn-fJ",
+      "poster": "seat_geneva.jpg"
+    },
+    "info": "Enter the site by zooming into the SEAT Geneva Motor show stand.<br/>Here we have 3d views of each car, photos, videos and reviews.<br/>The site also hosted a live video feed of the motor show event and integration to the SEAT team twitter feed."
+  },
+
+  {
+    "id": "33",
+    "client": "Possible Worldwide",
+    "brand": "Seat",
+    "project": "Leon SC",
+    "type": "site",
+    "tech": "flash",
+    "thumb": "seat_leonsc.jpg",
+    "view": {
+      "type": "video",
+      "width": 1178,
+      "height": 718,
+      "href": "1GMvNvQmYZI1AM8GRXR452LFvsebsz0JC",
+      "poster": "seat_leon.jpg"
+    },
+    "info": "Promotional site for the launch of SEAT SC<br/>Interior and exterior 3D views of the SEAT Leon SC pointing out key features.<br/>Each feature leads to page for more information, of which 5 are bespoke interactive pages."
+  },
+
+  {
+    "id": "34",
+    "client": "Like Digital",
+    "brand": "The Macallan",
+    "project": "Brand website",
+    "type": "site",
+    "tech": "html",
+    "thumb": "themacallan.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": [
+        "themacallan_01.jpg",
+        "themacallan_02.jpg",
+        "themacallan_03.jpg",
+        "themacallan_04.jpg"
+      ]
+    },
+    "info": "Frontend development of the brand experience with e-commerce web site. Responsive build using a modular template setup with animated and interactive effects."
+  },
+
+  {
+    "id": "35",
+    "client": "Foolproof",
+    "brand": "Post Office",
+    "project": "Broadband pages",
+    "type": "site",
+    "tech": "html",
+    "thumb": "postoffice.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": ["postoffice1.jpg", "postoffice2.jpg", "postoffice3.jpg"]
+    },
+    "info": "Web site frontend development using atomic design pattern library and build system, incorporating handlebars, SCSS, and standards-based JavaScript."
+  },
+
+  {
+    "id": "36",
+    "client": "Foolproof",
+    "brand": "Shell",
+    "project": "Fleet hub",
+    "type": "site",
+    "tech": "html",
+    "thumb": "shell.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": ["shell1.jpg", "shell2.jpg", "shell3.jpg"]
+    },
+    "info": "JavaScript heavy development creating complex pages including decision based dynamic forms, charts and user configurable content.  Incorporating runtime template rendering via RivetsJs and Redux to further support Single Page Applications."
+  },
+
+  {
+    "id": "37",
+    "client": "Foolproof",
+    "brand": "AXA XL",
+    "project": "UI development",
+    "type": "site",
+    "tech": "html",
+    "thumb": "axa.jpg",
+    "view": {
+      "type": "gallery",
+      "width": 780,
+      "height": 480,
+      "href": "",
+      "stills": ["axa1.jpg", "axa2.jpg"]
+    },
+    "info": "Atomic design pattern library of UI components, form page layouts and React demo"
+  }
+]
