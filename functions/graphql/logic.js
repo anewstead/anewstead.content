@@ -11,6 +11,7 @@ const typeDefs = gql`
     width: Int
     height: Int
     href: String
+    still: String
     stills: [String]
   }
 
