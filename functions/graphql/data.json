@@ -480,7 +480,7 @@
       "width": 300,
       "height": 250,
       "href": "sites/cisco/index.html",
-      "still": "sites/_stills/cisco.jpg"
+      "poster": "sites/_stills/cisco.jpg"
     },
     "info": "I have worked on several campaigns for Cisco.<br/>They have required standard and Rich media Flash, basic and automated HTML builds and are frequently translated to several languages."
   },
@@ -498,7 +498,7 @@
       "width": 300,
       "height": 600,
       "href": "sites/fosters/index.html",
-      "still": "sites/_stills/fosters.jpg"
+      "poster": "sites/_stills/fosters.jpg"
     },
     "info": "Campaign to advertise the Helluva Tour TV program sponsored by Fosters."
   },
@@ -516,7 +516,7 @@
       "width": 300,
       "height": 250,
       "href": "sites/halifax/index.html",
-      "still": "sites/_stills/halifax.gif"
+      "poster": "sites/_stills/halifax.gif"
     },
     "info": "I have worked on approx. 20 Halifax campaigns.<br/>After the initial build of each campaign the setup would be part automated using node and grunt to help manage the number of variations.<br/>The Hanna Barbara cartoon character were created as sprite sheets per size variation and animated via javascript."
   },
@@ -534,7 +534,7 @@
       "width": 300,
       "height": 600,
       "href": "sites/johnlewis/index.html",
-      "still": "sites/_stills/johnlewis.jpg"
+      "poster": "sites/_stills/johnlewis.jpg"
     },
     "info": "I have worked on approx. 30 John Lewis campaigns.<br/>Whilst all followed a brand style guide/ template each campaign creative and build was bespoke."
   },
@@ -552,7 +552,7 @@
       "width": 300,
       "height": 250,
       "href": "sites/lloydsbank/index.html",
-      "still": "sites/_stills/lloyds.gif"
+      "poster": "sites/_stills/lloyds.gif"
     },
     "info": "The Lloyds bank banners were developed with an automation process.<br/>It used node and grunt to iterate over a template setup and exported approx. 60 banner variations.<br/>The automation code was used over many campaigns."
   },
@@ -570,7 +570,7 @@
       "width": 300,
       "height": 250,
       "href": "sites/oakley/index.html",
-      "still": "sites/_stills/oakley.jpg"
+      "poster": "sites/_stills/oakley.jpg"
     },
     "info": "I have worked on a few campaigns for Oakley, some using Flash and some like this one using HTML.<br/>This creative uses HTML canvas gradients and a blur plugin to create the transition between frames."
   },
@@ -588,7 +588,7 @@
       "width": 300,
       "height": 250,
       "href": "sites/virgin/index.html",
-      "still": "sites/_stills/virgin.jpg"
+      "poster": "sites/_stills/virgin.jpg"
     },
     "info": "I have worked on several campaigns for Virgin which on the whole followed the same base creative template(s). <br/>The legal info was a dynamic feed so changes could be made to all banners in a campaign last minute or even after live."
   },
@@ -606,7 +606,7 @@
       "width": 300,
       "height": 250,
       "href": "sites/vwcv/index.html",
-      "still": "sites/_stills/vwcv.jpg"
+      "poster": "sites/_stills/vwcv.jpg"
     },
     "info": "This campaign for Volkswagen commercial vehicles ran during the UEFA European cup football tournament.<br/>The graphic seen here as a cake was managed via a dynamic feed and could have shown as either an English, Irish or Welsh flag depending on:<br/><br/>- The user’s geolocation.<br/>- If that nation was still in the running.<br/><br/>So if a viewer was at a location where the nation team was no longer in the tournament they would see a cake instead of the relevant flag."
   },
