@@ -3,7 +3,8 @@
 content for:
 [https://anewstead.doodlecube.co.uk](https://anewstead.doodlecube.co.uk)
 
-includes graphQL for data deploys using lamda function
+includes graphQL for data using lamda function
+
 graphQL playground at:
 [https://anewstead-content.netlify.app/graphql](https://anewstead-content.netlify.app/graphql)
 
