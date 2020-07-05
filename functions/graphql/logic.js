@@ -12,6 +12,7 @@ const typeDefs = gql`
     height: Int
     href: String
     poster: String
+    adblock: String
     stills: [String]
   }
 
