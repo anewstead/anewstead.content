@@ -1,7 +1,6 @@
 /**
  * detect if an adblocker is running
- * then redirect relatively to either
- * feature.html or failover.jpg
+ * redirect relative to the importing file
  */
 
 async function detectAdBlock() {
@@ -18,7 +17,7 @@ async function detectAdBlock() {
 
 detectAdBlock().then(function (res) {
   if (res === true) {
-    window.location.replace("failover.jpg");
+    window.location.replace("failover.html");
   } else {
     window.location.replace("feature.html");
   }
