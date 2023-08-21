@@ -17,8 +17,8 @@ async function detectAdBlock() {
 
 detectAdBlock().then(function (res) {
   if (res === true) {
-    window.location.assign("failover.html");
+    window.location.replace("failover.html");
   } else {
-    window.location.assign("feature.html");
+    window.location.replace("feature.html");
   }
 });
