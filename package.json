@@ -16,6 +16,6 @@
   "dependencies": {
     "apollo-server": "^2.25.4",
     "apollo-server-lambda": "^2.15.0",
-    "nodemon": "^2.0.4"
+    "nodemon": "^3.0.1"
   }
 }
